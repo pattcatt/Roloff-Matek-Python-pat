@@ -1,0 +1,3 @@
+[submodule "rm_python_lib"]
+	path = rm_python_lib
+	url = https://gitlab.kuleuven.be/u0032080/rm_python_lib.git
